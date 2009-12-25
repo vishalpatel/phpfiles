@@ -1,18 +1,16 @@
 VISHAL PATEL
 CONTACT: vkpatel@cmu.edu (412-576-9775) 1927, Murray Ave, Pittsburgh, 15217
 
-OBJECTIVE: To obtain a summer internship where I can pursue my interests in Web Technolog Technical knowledge, Leadership qualities and Analytical skills
+OBJECTIVE: To obtain a summer internship where I can pursue my interests in Web Technology, Database Application and develop quality products.
 
 EDUCATION:
    * Carnegie Mellon University Expected Graduation May 2011
      Master of Science in Information Networking
-	 Courses: 15213-Introduction to computer systems, Fundamentals of networking, Business Management, Statistics.
+	 Relevant Courses: 15213-Introduction to computer systems, Fundamentals of networking, Business Management, Statistics.
 	 
    * National Institute of Technology, Tiruchirappalli, India Graduation May 2007
      B Tech Instrumentation and Control Engineering with CGPA 9.16 out of 10
 	 
-INTERESTS: Web Technologies, Database Applications, Scalable Architectures, Information retrieval and Data-mining.
-
 WORK EXPERIENCE:
 	Yahoo! Software Development Centre, India Jun 07 – Jul 09
 	Senior Software Engineer, Ratings and Reviews (RnR) Team
@@ -28,13 +26,11 @@ WORK EXPERIENCE:
     * Advanced Reports for RnR Nov 07 – Dec 07
 		Analytics for RnR data / API usage. Designed and developed reporting structure with advanced data
 		insights to number of ratings/reviews on daily/weekly/monthly basis
-    * Extensible Message Store Platform Jul 07 – Nov 07
-		A C++ based Object Relation Mapping software library.
-
+		
 COMPUTER SKILLS :
 Environments: Linux, Windows, FreeBSD
 Applications/Packages: YUI, Eclipse, Emacs, Vi, NI LabView, Macromedia Dreamweaver
-Languages: C, Python, PHP, SQL, C++, Perl, Bash, Javascript, CSS, HTML
+Languages: C, Python, PHP, SQL, HTML, C++, Perl, Bash, Javascript, CSS
 
 PROJECTS: 
    * Object Identification and Tracking Robot. NIT Trichy Jan 07
