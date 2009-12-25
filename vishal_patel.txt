@@ -1,4 +1,4 @@
-VISHAL PATEL
+ï»¿VISHAL PATEL
 CONTACT: vkpatel@cmu.edu (412-576-9775) 1927, Murray Ave, Pittsburgh, 15217
 
 OBJECTIVE: To obtain a summer internship where I can pursue my interests in Web Technology, Database Application and develop quality products.
@@ -12,18 +12,18 @@ EDUCATION:
      B Tech Instrumentation and Control Engineering with CGPA 9.16 out of 10
 	 
 WORK EXPERIENCE:
-	Yahoo! Software Development Centre, India Jun 07 – Jul 09
+	Yahoo! Software Development Centre, India Jun 07 â€“ Jul 09
 	Senior Software Engineer, Ratings and Reviews (RnR) Team
-	* Platform Solutions Engineer Jan 09 – Jun 09
+	* Platform Solutions Engineer Jan 09 â€“ Jun 09
 		Coordinated integrations and migrations for Yahoo! media sites including Yahoo! Buzz, Finance,
 		Shopping, Sports etc with User Generated Content modules like ratings/reviews/comments etc.
-    * Yahoo! Updates for ratings and reviews Jan 09 – Jun 09
+    * Yahoo! Updates for ratings and reviews Jan 09 â€“ Jun 09
 		Designed and developed the update generation model for User Generated Content (UGC) like
 		ratings, reviews, recommendations, comments.
-    * Ratings and Reviews (RnR) Jan 08 – Jan 09
+    * Ratings and Reviews (RnR) Jan 08 â€“ Jan 09
 		Ratings / Reviews / Recommendations Storage, Retrieval and Management Platform. Implemented
 		XML/JSON based web service for the platform with 5x size reduction and 2x performance.
-    * Advanced Reports for RnR Nov 07 – Dec 07
+    * Advanced Reports for RnR Nov 07 â€“ Dec 07
 		Analytics for RnR data / API usage. Designed and developed reporting structure with advanced data
 		insights to number of ratings/reviews on daily/weekly/monthly basis
 		
@@ -49,5 +49,5 @@ HONOURS:
 ACTIVITIES 
    * 	Delivered a well attended series of lectures on C, C++, Web Programming, Website Design, Database
 		design, PHP, MySQL, XML, XSLT etc as part of the WebTeam at NIT, Trichy.
-   * 	Chaired in Sensors 2007 – a technical symposium of department of Instrumentation and Control Engineering.
+   * 	Chaired in Sensors 2007 â€“ a technical symposium of department of Instrumentation and Control Engineering.
    * 	Member of Child Relief and You (CRY) 2005-2007

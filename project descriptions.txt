@@ -1,38 +1,38 @@
-
+Ôªø
 --------------------------
 Project Description & Role
 --------------------------
 
-Platform Solutions Engineer           Yahoo! Jan 2009 ñ Jun 2009
+Platform Solutions Engineer           Yahoo! Jan 2009 ‚Äì Jun 2009
 Member of solutions team that provides complete support for integrations and migrations of Yahoo media sites across the internet like Yahoo! BUZZ, Movies, Shopping, Autos, Travel, News, Finance etc. Also includes custom requirements and roadmap designs for new upcoming sites. 
 
-Yahoo! Updates for ratings and reviews  Yahoo! Jan 2009 ñ Jun 2009
+Yahoo! Updates for ratings and reviews  Yahoo! Jan 2009 ‚Äì Jun 2009
    * Designed and developed the update generation model for User Generated Content (UGC) like ratings, reviews, recommendations, comments etc. 
    * Near real-time generation of profile updates.
    * Modifying the updates based on edit or delete of UGC.
    * Support for profanity moderation based updates.
 
-Ratings and Reviews (RnR)            Yahoo! Jan 2007 ñ Jan 2007
+Ratings and Reviews (RnR)            Yahoo! Jan 2007 ‚Äì Jan 2007
 Ratings / Reviews / Recommendations Storage, Retrieval and Management Platform. 
    * Developed XML/JSON based web service for the platform. 
    * Involved in developing a new platform that provides 5 times reduction in data size and 2 times reduction in response time.
 
-Advanced Reports for RnR             Yahoo! Nov 2007 ñ Dec 2007
+Advanced Reports for RnR             Yahoo! Nov 2007 ‚Äì Dec 2007
 Analytics for RnR data / API usage. RnR platform gets thousands of ratings and reviews on daily basis. 
    * Developed the full reporting structure from ground up with advanced data insights to number of ratings/reviews on daily/weekly/monthly basis. 
    * Incorporated advanced metrics such as users with N reviews this month, unique users, return users etc. 
    * Developed analytics for API usage per day, and usage patterns on hourly basis etc. involving data processing and collection from multiple machines reporting RnR aggregates and platform performance.
 
-Extensible Message Store Platform   Yahoo! Jul 2007 ñ Nov 2007
+Extensible Message Store Platform   Yahoo! Jul 2007 ‚Äì Nov 2007
 A C++ based Object Relation Mapping software library.
    * Developed a C++ database object abstraction library with MySQL.
    * Incorporated support for transactions and advanced customized schema design like relationships, Aggregates etc. 
    * Built PHP extension for the library for easy adaptation in web applications. 
-   * Won ìU Rockî award ñ company wide yearly achievement award for the ìBest Idea and Designî software.
+   * Won ‚ÄúU Rock‚Äù award ‚Äì company wide yearly achievement award for the ‚ÄúBest Idea and Design‚Äù software.
 
 Dalal Street                              NIT Trichy Jan 2005
 A web based stock market simulation. The most popular event in Pragyan, a technical festival of NIT Trichy (2005, 2006, and 2007).
 Designed and developed the application to simulate real stock variations along with related news and information. This application was developed in PHP, hosted on Apache with MySQL used as RDBMS system. 
 
-Object Identification and Tracking   NIT Trichy Jan ñ May 2007
+Object Identification and Tracking   NIT Trichy Jan ‚Äì May 2007
 Designed and developed an electronic four wheeled robot that identifies an object in the immediate environment and maneuvers to reach it. This was developed using simple web camera and image processing tool kit from Matlab. The object identification was done using image segmentation and color based extraction. The uniqueness of object is defined by color and shape (e.g. circular red ball).
