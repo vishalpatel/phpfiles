@@ -44,7 +44,7 @@ PROJECTS:
 HONOURS:
    * 	Awarded companywide Best idea and design award (Yahoo! U Rock) for Extensible Message Store Platform.
    * 	Academic Proficiency Award at NIT-Trichy, summer 2005 for best academics among 450 students.
-   * 	First Prize in Technical Quiz, Third Prize in Programming Contest, Spring 2006
+   * 	First Prize in Technical Quiz, Third Prize in Programming Contest. Spring 2006
 
 ACTIVITIES 
    * 	Delivered a well attended series of lectures on C, C++, Web Programming, Website Design, Database
